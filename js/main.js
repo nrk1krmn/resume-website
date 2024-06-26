@@ -28,6 +28,7 @@ function setLang(lang) {
         projectsUl.innerHTML = `
         <li><a href="https://t.me/avito_parser_krmn_bot" target="_blank">Avito Monitor</a> - Telegram-bot for tracking ads on the Avito service</li>
         <li><a href="https://t.me/at_bw_bot" target="_blank">BestWatch Monitor</a> - Telegram-bot for tracking the prices of wristwatches from the website BestWatch.ru</li>
+        <li><a href="https://github.com/nrk1krmn/srt-translator" target="_blank">SRT Translator</a> - NodeJS script for translating subtitles in .srt format</li>
         <li><a href="https://t.me/geekbenchscores_bot" target="_blank">GeekBench Scraper</a> - Telegram-bot for scraping CPU benchmark scores from GeekBench browser</li>
         <li><a href="https://t.me/img_comb_bot" target="_blank">Image Combiner</a> - Telegram-bot for quick photo merging</li>
         <li><a href="https://t.me/wheremymoney_krmn_bot" target="_blank">Где деньги?</a> - Telegram-bot for personal finance accounting</li>
@@ -45,6 +46,7 @@ function setLang(lang) {
         projectsUl.innerHTML = `
         <li><a href="https://t.me/avito_parser_krmn_bot" target="_blank">Avito Monitor</a> - Телеграм-бот для отслеживания товаров на Авито</li>
         <li><a href="https://t.me/at_bw_bot" target="_blank">BestWatch Monitor</a> - Телеграм-бот для отслеживания цен на наручные часы на сайте BestWatch.ru</li>
+        <li><a href="https://github.com/nrk1krmn/srt-translator" target="_blank">SRT Translator</a> - NodeJS скрипт для перевода субтитров формата .srt</li>
         <li><a href="https://t.me/geekbenchscores_bot" target="_blank">GeekBench Scraper</a> - Телеграм-бот для сбора информации о синтетических тестах процессоров проведенных в сервисе GeekBench</li>
         <li><a href="https://t.me/img_comb_bot" target="_blank">Image Combiner</a> - Телеграм-бот для быстрого объединения фотографий</li>
         <li><a href="https://t.me/wheremymoney_krmn_bot" target="_blank">Где деньги?</a> - Телеграм-бот для учета личных финансов</li>
